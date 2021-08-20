@@ -1,0 +1,413 @@
+software requirements
+product requirements
+process requirements
+functional requirements
+nonfunctional requirements
+nonfunctional nfr
+emergent properties
+quantifiable requirements
+system requirements
+requirements process
+process models
+process actors
+process support
+process management
+process quality
+process improvement
+requirements elicitation
+requirements sources
+elicitation techniques
+requirements analysis
+requirements classification
+conceptual modeling
+architectural design
+requirements allocation
+requirements negotiation
+formal analysis
+requirements specification
+system definition document
+requirements validation
+requirements reviews
+model validation
+acceptance tests
+practical considerations
+iterative nature requirements process
+change management
+requirements attributes
+requirements tracing
+measuring requirements
+software requirements tools
+software design fundamentals
+general design concepts
+context software design
+software design process
+software design principles
+control events
+handling events
+data persistence
+distribution components
+error handling
+exception handling
+fault tolerance
+interaction presentation
+software structure
+software architecture
+architectural structures
+architectural viewpoints
+architectural styles
+design patterns
+architecture design
+design decisions
+families programs frameworks
+user interface design
+general user interface design principles
+user interaction modalities
+information presentation design
+user interface design process
+metaphors conceptual models
+software design quality analysis
+software design quality evaluation
+quality attributes
+quality analysis
+evaluation techniques
+software design notations
+structural descriptions
+behavioral descriptions
+software design strategies
+software design methods
+general strategies
+function-oriented structured design
+object-oriented design
+data structure-centered design
+component based design cbd
+software design tools
+software construction fundamentals
+minimizing complexity
+anticipating change
+constructing verification
+standards construction
+construction life cycle models
+construction planning
+construction measurement
+construction design
+construction languages
+coding programming
+construction testing
+construction reuse
+construction reuse
+construction quality
+construction technologies
+api design
+api use
+object-oriented runtime issues
+assertions test
+design contract
+defensive programming
+error handling
+exception handling
+fault tolerance
+executable models
+state-based construction techniques
+table-driven construction techniques
+runtime configuration
+grammar-based input processing
+concurrency primitives
+construction methods distributed software
+constructing heterogeneous systems
+performance analysis tuning
+platform standards
+test-first programming
+software construction tools
+development environments
+graphical user interface builders
+unit testing tools
+profiling performance analysis slicing tools
+software testing fundamentals
+testing-related terminology
+relationship testing activities
+test levels
+target test
+objectives testing
+test techniques
+software engineer intuition experience
+input domain-based techniques
+code-based techniques
+fault-based techniques
+usage-based techniques
+model-based testing techniques
+selecting combining techniques
+test-related measures
+evaluation program test
+evaluation tests performed
+test process
+practical considerations
+test activities
+software testing tools
+testing tool support
+categories tools
+software maintenance fundamentals
+nature maintenance
+need maintenance
+majority maintenance costs
+evolution software
+categories maintenance
+key issues software maintenance
+technical issues
+management issues
+maintenance cost estimation
+software maintenance measurement
+maintenance process
+maintenance processes
+maintenance activities
+techniques maintenance
+program comprehension
+reverse engineering
+software maintenance tools
+software configuration management process
+organizational context software configuration management
+constraints guidance software configuration management process
+planning software configuration management
+software configuration management plan
+surveillance software configuration management
+software configuration identification
+identifying items controlled
+software library
+software configuration control
+requesting software changes
+evaluating software changes
+approving software changes
+implementing software changes
+deviations waivers
+software configuration status accounting
+software configuration status information
+software configuration status reporting
+software configuration auditing
+software functional configuration audit
+software physical configuration audit
+in-process audits software baseline
+software release management delivery
+software building
+software release management
+software configuration management tools
+initiation definition
+scope definition
+determination requirements
+negotiation requirements
+feasibility analysis
+process review revision requirements
+software project planning
+process planning
+determine deliverables
+cost estimation
+resource allocation
+risk management
+quality management
+plan management
+software project enactment
+implementation plans
+software acquisition
+supplier contract management
+implementation measurement process
+monitor process
+control process
+review evaluation
+determining satisfaction requirements
+reviewing evaluating performance
+determining closure
+closure activities
+software engineering measurement
+establish sustain measurement commitment
+plan measurement process
+perform measurement process
+evaluate measurement
+software engineering management tools
+software process definition
+software process management
+software process infrastructure
+software life cycles
+categories software processes
+software life cycle models
+software process adaptation
+practical considerations
+software process assessment improvement
+software process assessment models
+software process assessment methods
+software process improvement models
+continuous staged software process ratings
+software measurement
+software process product measurement
+quality measurement results
+software information models
+software process measurement techniques
+software engineering process tools
+modeling principles
+properties models
+expression models
+syntax semantics pragmatics
+preconditions postconditions invariants
+types models
+information modeling
+behavioral modeling
+structure modeling
+analysis models
+analyzing completeness
+analyzing consistency
+analyzing correctness
+interaction analysis
+software engineering methods
+heuristic methods
+formal methods
+prototyping methods
+agile methods
+software quality fundamentals
+software engineering culture
+software engineering ethics
+value quality
+costs quality
+models quality characteristics
+software quality improvement
+software safety
+software quality management processes
+software quality assurance
+verification validation
+reviews audits
+practical considerations
+software quality requirements
+defect characterization
+software quality management techniques
+software quality measurement
+software quality tools
+codes ethics
+professional conduct
+nature role professional societies
+nature role software engineering standards
+economic impact software
+legal issues
+tradeoff analysis
+group dynamics psychology
+dynamics working teams/groups
+individual cognition
+dealing problem complexity
+interacting stakeholders
+dealing uncertainty ambiguity
+dealing multicultural environments
+software engineering economics fundamentals
+decision-making process
+time-value money
+life cycle economics
+product life cycle
+project life cycle
+investment decisions
+planning horizon
+price pricing
+cost costing
+performance measurement
+earned value management
+termination decisions
+replacement retirement decisions
+risk uncertainty
+goals estimates plans
+estimation techniques
+addressing uncertainty
+decisions risk
+decisions uncertainty
+economic analysis methods
+for-profit decision analysis
+minimum acceptable rate return
+return investment
+return capital employed
+cost-benefit analysis
+cost-effectiveness analysis
+break-even analysis
+business case
+multiple attribute evaluation
+optimization analysis
+practical considerations
+good-enough principle
+friction-free economy
+offshoring outsourcing
+problem solving techniques
+definition problem solving
+formulating real problem
+analyze problem
+design solution search strategy
+problem solving using programs
+levels abstraction
+alternate abstractions
+programming fundamentals
+programming process
+programming paradigms
+programming language basics
+programming language overview
+syntax programming languages
+semantics programming languages
+low-level programming languages
+high-level programming languages
+declarative programming languages
+imperative programming languages
+debugging tools
+debugging techniques
+types errors
+debugging techniques
+debugging tools
+data structure representation
+data structure overview
+types data structure
+operations data structures
+algorithms complexity
+overview algorithms
+attributes algorithms
+algorithmic analysis
+algorithmic design strategies
+algorithmic analysis strategies
+basic concept system
+emergent system properties
+systems engineering
+overview computer system
+computer organization
+computer organization overview
+digital systems
+digital logic
+computer expression data
+central processing unit cpu
+memory system organization
+input output i/o io
+compiler basics
+compilation process
+operating system
+database basics data management
+entity schema
+database management systems dbms
+database query language
+tasks database management systems packages
+data management
+data mining
+network communication basics
+types network
+basic network components
+networking protocols standards
+internet things
+virtual private network vpn
+parallel computing
+distributed computing
+difference parallel distributed computing
+parallel computing models
+distributed computing models
+main issues distributed computing
+basic user human factors
+error messages
+software robustness
+basic developer human factors
+secure software development maintenance
+software requirements security
+software design security
+software construction security
+software testing security
+software security guidelines
+assessing reliability
+engineering design
+engineering design engineering education
+design problem solving activity
+engineering design steps
+root cause analysis
+techniques conducting root cause analysis
