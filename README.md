@@ -16,7 +16,7 @@ To find interrelated terms which showcase the similarity of software engineering
 
 ## Publication
 
-For details on the tools and data, see the [paper](https://dl.acm.org/doi/10.1145/3468264.3473132) published in the proceedings of ESEC/FSE 2021. Please cite the tool and data as
+For details on the tools and data, see the [paper](https://dl.acm.org/doi/10.1145/3468264.3473132) (or its [pre-print](https://arxiv.org/abs/2108.09529)) published in the proceedings of ESEC/FSE 2021. Please cite the tool and data as
 
 ```bibtex
 @INPROCEEDINGS{baskararajah2021term,
